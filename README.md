@@ -60,7 +60,8 @@ Install and Init
 vue init webpack bookstore   
 yarn install   
 yarn start  
-yarn add vue-router
+yarn add vue-router   
+
 ```   
  
 
