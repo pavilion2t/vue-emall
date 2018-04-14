@@ -53,11 +53,15 @@ Vue 提供了 transition 的封装组件，在下列情形中，可以给任何�
 条件渲染 (使用 v-if)
 条件展示 (使用 v-show)
 动态组件
-组件根节点  
+组件根节点     
 
 Install and Init  
 ```    
 vue init webpack bookstore   
 yarn install   
-yarn start   
-```     
+yarn start  
+yarn add vue-router   
+
+```   
+ 
+
